@@ -1,4 +1,4 @@
-name: deploy_endpoint
+name: deployment-pipeline
 on:
   push:
     branches: [ main ]
